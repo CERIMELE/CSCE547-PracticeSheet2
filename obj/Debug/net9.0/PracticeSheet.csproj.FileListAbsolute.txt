@@ -1,0 +1,15 @@
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\bin\Debug\net9.0\PracticeSheet.exe
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\bin\Debug\net9.0\PracticeSheet.deps.json
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\bin\Debug\net9.0\PracticeSheet.runtimeconfig.json
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\bin\Debug\net9.0\PracticeSheet.dll
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\bin\Debug\net9.0\PracticeSheet.pdb
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\PracticeSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\PracticeSheet.AssemblyInfoInputs.cache
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\PracticeSheet.AssemblyInfo.cs
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\PracticeSheet.csproj.CoreCompileInputs.cache
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\PracticeSheet.sourcelink.json
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\PracticeSheet.dll
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\refint\PracticeSheet.dll
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\PracticeSheet.pdb
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\PracticeSheet.genruntimeconfig.cache
+C:\Users\scpen\Documents\GitHub\CSCE547-PracticeSheet2\obj\Debug\net9.0\ref\PracticeSheet.dll
